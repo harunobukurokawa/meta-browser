@@ -1,0 +1,3 @@
+[submodule "meta-nodejs"]
+	path = meta-nodejs
+	url = https://github.com/imyller/meta-nodejs.git
