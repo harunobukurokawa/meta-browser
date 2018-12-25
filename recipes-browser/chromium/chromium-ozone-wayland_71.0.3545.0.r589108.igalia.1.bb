@@ -16,6 +16,7 @@ SRC_URI += " \
  file://0001-fix-LR-register-in-crashpad.patch \
  file://0001-Workaround-gcc-bug-protected-within-this-context.patch \
  file://0001-Fix-constexpr-needed-for-in-class-initialization-of-.patch \
+ file://0001-ozone-wayland-fix-kiosk-mode.patch \
 "
 
 REQUIRED_DISTRO_FEATURES = "wayland"
